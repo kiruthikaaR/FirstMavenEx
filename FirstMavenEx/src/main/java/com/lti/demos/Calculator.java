@@ -1,9 +1,9 @@
 package com.lti.demos;
 
 public class Calculator {
-	public int add(int x, int y)
+	public int add(int a, int b)
 	{
-	int result=x+y;
+	int result=a+b;
 
 	return result;
 	}
