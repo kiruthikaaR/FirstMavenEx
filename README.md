@@ -1,0 +1,2 @@
+# FirstMavenEx
+read maven project
