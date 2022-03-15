@@ -12,7 +12,7 @@ class TestCaseEx {
 	        Assertions.assertEquals("HELLO","HELLO");
 	    
 	 Calculator c =new Calculator();
-     int x =c.add(300, 200);
-     Assertions.assertEquals(500,x);
+     int y =c.add(300, 200);
+     Assertions.assertEquals(500,y);
 }
 }
